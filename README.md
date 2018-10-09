@@ -13,3 +13,6 @@ Ejercicio de práctica de Github
 #Versión 1.0.2
 - Creamos ordenesbásicas.html
 - Modificamos el menú de index.html
+
+#Versión 1.0.3
+- Creamos buenaspracticas.html
